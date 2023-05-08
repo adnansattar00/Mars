@@ -12,5 +12,9 @@ namespace Mars
         {
             return a + b;
         }
+        internal int Subtract(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
