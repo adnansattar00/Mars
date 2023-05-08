@@ -14,6 +14,7 @@ namespace Mars
             var result = math.Sum(10 , 10);
             Console.WriteLine("Sum is: " + result);
             Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
